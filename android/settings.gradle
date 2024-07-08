@@ -1,4 +1,4 @@
-rootProject.name = 'Minesweeper'
+rootProject.name = 'Mineyab'
 
 dependencyResolutionManagement {
   versionCatalogs {

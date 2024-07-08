@@ -1,4 +1,4 @@
-package com.danilo_h63.minesweeper
+package ir.tahanian.mineyabgame
 
 import android.os.Build
 import android.os.Bundle
