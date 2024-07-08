@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Mineyab",
+    "slug": "mineyab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#260064"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#260064"
+      },
+      "package": "ir.tahanian.mineyabgame",
+      "runtimeVersion": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a8ce8657-9723-416a-8ae3-3bd19e80dc9f"
+      }
+    },
+    "owner": "miladtahanian",
+    "updates": {
+      "url": "https://u.expo.dev/a8ce8657-9723-416a-8ae3-3bd19e80dc9f"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
